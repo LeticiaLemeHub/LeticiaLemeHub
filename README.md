@@ -29,5 +29,5 @@ Eae, de boa?
 
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaLemeHub&theme=transparent" alt="GitHub Streak">
-  <img align="right" alt="Mine" src="https://media.tenor.com/b6PLDyupHEUAAAAi/espresso-cappuccino.gif">
+  <img align="right" alt="Totoro" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
 </div>
