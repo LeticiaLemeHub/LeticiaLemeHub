@@ -31,3 +31,8 @@ Eae, de boa?
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaLemeHub&theme=transparent" alt="GitHub Streak">
   <img align="right" alt="Totoro" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
 </div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaLemeHub/LeticiaLemeHub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeticiaLemeHub/LeticiaLemeHub/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeticiaLemeHub/LeticiaLemeHub/output/github-contribution-grid-snake.svg">
+</picture>
