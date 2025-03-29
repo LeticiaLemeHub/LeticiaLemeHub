@@ -3,9 +3,9 @@ Eae, só alegria?!
 
 ### 📚 Atualmente estou estudando:
 
-🔹 Java
-🔹 Python
-🔹 JavaScript
+🔹 Java/
+🔹 Python/
+🔹 JavaScript/
 🔹 HTML & CSS
 
 ### 🤓 Habilidades em desenvolvimento:
