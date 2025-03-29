@@ -1,5 +1,5 @@
 ## Welcome to MY world!
-Eae, de boa?
+Eae, só alegria?!
 
 ### 📚 Atualmente estou estudando:
 
