@@ -28,7 +28,7 @@ Eae, só alegria?!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaLemeHub&layout=compact&theme=transparent" alt="Top Linguagens">
 
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaLemeHub&theme=transparent" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaLemeHub&theme=dark" alt="GitHub Streak">
   <img align="right" alt="Totoro" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
 </div>
 <!-- For SVG -->
